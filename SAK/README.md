@@ -1,6 +1,6 @@
 # Lab 05 – Statek: Geometria, Ruch i Fizyka
 
-![Podgląd działania projektu](file:///C:/Users/marek/Pictures/Screenshots/ss.png)
+![Podgląd działania projektu](file:///C:\Users\marek\Pictures\Screenshots\ss.png)
 *Podgląd działania statku z aktywnym płomieniem i widocznym wektorem prędkości (tryb debugowania).*
 
 ## Co zostało zrealizowane
