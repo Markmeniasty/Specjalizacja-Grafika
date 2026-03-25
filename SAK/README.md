@@ -1,6 +1,7 @@
 # Lab 05 – Statek: Geometria, Ruch i Fizyka
 
 ![Podgląd działania projektu](ss.png)
+
 *Podgląd działania statku z aktywnym płomieniem.*
 
 ## Co zostało zrealizowane
