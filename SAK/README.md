@@ -1,7 +1,7 @@
 # Lab 05 – Statek: Geometria, Ruch i Fizyka
 
-![Podgląd działania projektu](file:\\\C:\Users\marek\Pictures\Screenshots\ss.png)
-*Podgląd działania statku z aktywnym płomieniem i widocznym wektorem prędkości (tryb debugowania).*
+![Podgląd działania projektu](ss.png)
+*Podgląd działania statku z aktywnym płomieniem.*
 
 ## Co zostało zrealizowane
 W ramach laboratorium zaimplementowano model statku kosmicznego w środowisku **Raylib-Python (pyray)**, przenosząc logikę z microStudio do czystego Pythona. Kluczowe elementy projektu to:
